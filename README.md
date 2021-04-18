@@ -2,8 +2,8 @@
 <html>
   <h1>Vega-lite Visualization</h1>
   <p> The chart below shows the increase in bike ridership throughout 2020 beginning in February.</p>
-  <iframe width="100%" height="340" frameborder="0"
-  src="//observablehq.com/embed/dbaa7d7649c9e636?cells=bikeComp"></iframe>
+  <iframe width="100%" height="323" frameborder="0"
+  src="https://observablehq.com/embed/@info247-spring21/vega-lite-assignment-solution?cells=ex3"></iframe>
 
   <h1>Tableau Visualization</h1>
   <p>Below are a series of visualizations made using Tableau.</p>
